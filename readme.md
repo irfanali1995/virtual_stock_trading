@@ -1,4 +1,4 @@
-# virtual_stock_trading
+# Virtual Stock Trading
 
 ![Screenshot 2024-01-23 at 01 23 02](https://github.com/irfanali1995/virtual_stock_trading/assets/75564524/8ce4c64f-58cb-47f8-a54e-61440ebcc4dc)
 
