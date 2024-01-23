@@ -1,6 +1,6 @@
 # CS50-Finance
 
-![Screenshot 2023-11-29 at 10 34 44](https://github.com/irfanali1995/IrfanAli-CodingProjects/assets/75564524/ba8bf19c-1406-4d2a-b6fd-f5b2d0c82adf)
+![Screenshot 2024-01-23 at 01 23 02](https://github.com/irfanali1995/virtual_stock_trading/assets/75564524/8ce4c64f-58cb-47f8-a54e-61440ebcc4dc)
 
 **Description:** Stock web-app where user can register and lookup realtime stock by using Yahoo finance API, where they can purchase stock with pretend money .   
 
