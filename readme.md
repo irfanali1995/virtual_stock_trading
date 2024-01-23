@@ -1,11 +1,16 @@
-# CS50-Finance
+# virtual_stock_trading
 
 ![Screenshot 2024-01-23 at 01 23 02](https://github.com/irfanali1995/virtual_stock_trading/assets/75564524/8ce4c64f-58cb-47f8-a54e-61440ebcc4dc)
 
 **Description:** Stock web-app where user can register and lookup realtime stock by using Yahoo finance API, where they can purchase stock with pretend money .   
 
 # Technologies Used:
- Flask, SQLite 3,HTML/CSS, Password Hashing, Stock Price Lookup (APIs), User Authentication, Forms and Input Handling, Session Management
+ - Flask
+ - SQLite 3
+ - HTML/CSS
+ - yFinance API
+ - Password hashing with Werkzeug
+
 
 For this project, I implemented the following functionality:
 
@@ -18,4 +23,4 @@ For this project, I implemented the following functionality:
 7. `add_money`: Allow user to add money with pretend card 
 
 **NOTE**: All copy rights for this projects are here [here](https://cs50.harvard.edu/x/2020/tracks/web/finance/).   
-# virtual_stock_trading
+
