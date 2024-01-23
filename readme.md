@@ -22,5 +22,5 @@ For this project, I implemented the following functionality:
 6. `change_password`: Allow user to change password
 7. `add_money`: Allow user to add money with pretend card 
 
-**NOTE**: All copy rights for this projects are here [here](https://cs50.harvard.edu/x/2020/tracks/web/finance/).   
+**NOTE**: All copy rights details for this projects are [here](https://cs50.harvard.edu/x/2020/tracks/web/finance/).   
 
